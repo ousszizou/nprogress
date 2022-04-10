@@ -178,7 +178,7 @@ NProgress.configure({ parent: '#container' });
 ~~~
 
 #### `rtl`
-Change the progress direction to right-to-left. (default: `false`)
+Change the progress direction to right-to-left. (default: `true`)
 
 ~~~ js
 NProgress.configure({ rtl: true });
