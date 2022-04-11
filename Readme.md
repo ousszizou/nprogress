@@ -22,7 +22,7 @@ Add [nprogress.js] and [nprogress.css] to your project.
 
 NProgress is available via [bower] and [npm].
 
-    $ npm install --save nprogress
+    $ npm install --save nprogress-support-rtl
 
 Also available via [unpkg] CDN:
 

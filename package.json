@@ -1,11 +1,11 @@
 {
-  "name": "nprogress",
-  "author": "Rico Sta. Cruz <hi@ricostacruz.com>",
-  "description": "Simple slim progress bars",
-  "version": "0.2.0",
+  "name": "nprogress-support-rtl",
+  "author": "Rico Sta. Cruz <hi@ricostacruz.com>, ousszizou <odjaidri@gmail.com>",
+  "description": "Simple slim progress bars with support for RTL",
+  "version": "0.3.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rstacruz/nprogress.git"
+    "url": "https://github.com/ousszizou/nprogress.git"
   },
   "scripts": {
     "test": "mocha"
